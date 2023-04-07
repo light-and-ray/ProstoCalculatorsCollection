@@ -1,6 +1,7 @@
 ---
 title: Collection of calculators
 ---
+</br>
 
 ## by Type:
 - [Basic](byType/basic.md)
@@ -10,7 +11,10 @@ title: Collection of calculators
 - [CAS](byType/cas.md)
 - [Other](byType/other.md)
 
-____________________
+
+
+
+</br>
 
 ## by Brand:
 - [<img src="img/casio.svg" height="30">](byBrand/casio.md)
@@ -29,7 +33,9 @@ ____________________
 - [Uniel](byBrand/uniel.md)
 - [Other](byBrand/other.md)
 
-____________________
+
+
+</br>
 
 ## by Display:
 - [<img src="img/oneLine.jpg" height="40">](byDisplay/oneLine.md) [One Line](byDisplay/oneLine.md)
@@ -43,4 +49,5 @@ ____________________
 
 - [Other](byDisplay/other.md)
 
+</br>
 ____________________
