@@ -1,0 +1,2 @@
+- [Uniel US-54](/calculators/Uniel_US-54/page.md) <img src="/calculators/Uniel_US-54/render.jpg" height="50">
+- [Casio fx-92+](/calculators/Casio_fx-92+/page.md) <img src="/calculators/Casio_fx-92+/render.jpg" height="50">
