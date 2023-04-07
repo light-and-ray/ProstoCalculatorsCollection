@@ -32,16 +32,9 @@ ____________________
 ____________________
 
 ## by Display:
-- [One Line](byDisplay/oneLine.md)
-- [Two Lines](byDisplay/twoLines.md)
-- [Matrix](byDisplay/matrix.md)
+- [<img src="img/oneLine.jpg" height="40">](byDisplay/oneLine.md) [One Line](byDisplay/oneLine.md)
+- [<img src="img/twoLines.jpg" height="60">](byDisplay/twoLines.md) [Two Lines](byDisplay/twoLines.md)
+- [<img src="img/matrix.jpg" height="90">](byDisplay/matrix.md) [Matrix](byDisplay/matrix.md)
 - [Other](byDisplay/other.md)
 
 ____________________
-
-## List:
-- [Casio fx-260 SOLAR II](/calculators/Casio_fx-260_SOLAR_II/page.md)
-- [Uniel US-54](/calculators/Uniel_US-54/page.md)
-- [Casio fx-92+](/calculators/Casio_fx-92+/page.md)
-- [Casio fx-1.0 Plus](/calculators/Casio_fx-1.0_Plus/page.md)
-
