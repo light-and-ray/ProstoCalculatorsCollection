@@ -33,8 +33,14 @@ ____________________
 
 ## by Display:
 - [<img src="img/oneLine.jpg" height="40">](byDisplay/oneLine.md) [One Line](byDisplay/oneLine.md)
+
+
 - [<img src="img/twoLines.jpg" height="60">](byDisplay/twoLines.md) [Two Lines](byDisplay/twoLines.md)
+
+
 - [<img src="img/matrix.jpg" height="90">](byDisplay/matrix.md) [Matrix](byDisplay/matrix.md)
+
+
 - [Other](byDisplay/other.md)
 
 ____________________
