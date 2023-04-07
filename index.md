@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+title: Collection of calculators
 ---
+
+by type:
+
+by brand:
 
