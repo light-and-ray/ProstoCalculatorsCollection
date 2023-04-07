@@ -3,7 +3,7 @@ title: Collection of calculators
 ---
 </br>
 
-## by Type:
+## By Type:
 - [Basic](byType/basic.md)
 - [Scientific](byType/scientific.md)
 - [Programable](byType/programble.md)
@@ -16,7 +16,7 @@ title: Collection of calculators
 
 </br>
 
-## by Brand:
+## By Brand:
 - [<img src="img/casio.svg" height="30">](byBrand/casio.md)
 
 
@@ -37,7 +37,7 @@ title: Collection of calculators
 
 </br>
 
-## by Display:
+## By Display:
 - [<img src="img/oneLine.jpg" height="40">](byDisplay/oneLine.md) [One Line](byDisplay/oneLine.md)
 
 
