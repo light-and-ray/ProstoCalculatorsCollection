@@ -4,7 +4,7 @@ listEntry()
 {
     path=$1
     modelName="$(echo $(basename $path) | sed -e "s/_/ /g")"
-    echo "- <img src=\"../$path/render.jpg\" height=\"80\"> [$modelName](../$path/page.md)"
+    echo "- <img src=\"../$path/render.jpg\" height=\"100\"> [$modelName](../$path/page.md)"
 }
 
 process()
@@ -19,8 +19,5 @@ process()
 
 for file in *
 do
-    if [ $file != update.sh ]
-    then
-        process $file
-    fi
+    process $file
 done
