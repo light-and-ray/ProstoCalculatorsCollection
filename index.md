@@ -14,8 +14,14 @@ ____________________
 
 ## by Brand:
 - [<img src="img/casio.svg" height="30">](byBrand/casio.md)
+
+
 - [<img src="img/hp.png" height="44">](byBrand/hp.md)
+
+
 - [<img src="img/ti.svg" height="84">](byBrand/ti.md)
+
+
 - [<img src="img/sharp.svg" height="28">](byBrand/sharp.md)
 
 
