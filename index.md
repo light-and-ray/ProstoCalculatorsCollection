@@ -2,6 +2,8 @@
 title: Collection of calculators
 ---
 
+Repository of this site: https://github.com/light-and-ray/prosto-calculators-collection
+
 ## By type:
 
 ## By brand:
