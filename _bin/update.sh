@@ -10,7 +10,7 @@ listEntry()
 process()
 {
     file=$1
-    echo -e "[Go Back](../)\n\n" > ../$file.md
+    echo -n "" > ../$file.md
     for path in $(cat $file)
     do
         listEntry $path >> ../$file.md

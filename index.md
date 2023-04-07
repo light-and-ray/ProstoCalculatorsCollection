@@ -13,10 +13,10 @@ title: Collection of calculators
 ____________________
 
 ## by Brand:
-- [Casio](byBrand/casio.md)
-- [Hewlett-Packard](byBrand/hp.md)
-- [Texas Instruments](byBrand/ti.md)
-- [Sharp](byBrand/sharp.md)
+- [<img src="img/casio.svg" height="30">](byBrand/casio.md)
+- [<img src="img/hp.png" height="44">](byBrand/hp.md)
+- [<img src="img/ti.svg" height="84">](byBrand/ti.md)
+- [<img src="img/sharp.svg" height="28">](byBrand/sharp.md)
 
 
 - [Staff](byBrand/staff.md)
@@ -26,10 +26,10 @@ ____________________
 ____________________
 
 ## by Display:
-- [One Line](oneline.md)
-- [Two Lines](twolines.md)
-- [Matrix](matrix.md)
-- [Other](other.md)
+- [One Line](byDisplay/oneLine.md)
+- [Two Lines](byDisplay/twoLines.md)
+- [Matrix](byDisplay/matrix.md)
+- [Other](byDisplay/other.md)
 
 ____________________
 

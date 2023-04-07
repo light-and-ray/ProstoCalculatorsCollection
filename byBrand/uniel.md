@@ -1,4 +1,1 @@
-[Go Back](../)
-
-
 - <img src="../calculators/Uniel_US-54/render.jpg" height="100"> [Uniel US-54](../calculators/Uniel_US-54/page.md)
