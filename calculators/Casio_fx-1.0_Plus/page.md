@@ -1,4 +1,4 @@
-# Casio fx-1.0 Plus
+## Casio fx-1.0 Plus
 
 <img src="render.jpg" height="500">
 
