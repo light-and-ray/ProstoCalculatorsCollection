@@ -3,6 +3,7 @@ title: Collection of calculators
 ---
 
 
+____________________
 
 ## By Type:
 - [Basic](byType/basic.md)
@@ -15,6 +16,7 @@ title: Collection of calculators
 
 
 
+____________________
 
 ## By Brand:
 - [<img src="img/casio.svg" height="30">](byBrand/casio.md)
@@ -35,6 +37,7 @@ title: Collection of calculators
 
 
 
+____________________
 
 ## By Display:
 - [<img src="img/oneLine.jpg" height="40">](byDisplay/oneLine.md) [One Line](byDisplay/oneLine.md)
