@@ -1,3 +1,3 @@
-<img src="../img/assistant" height="60" align=right>
+<img src="../img/assistant" width="350" align=right>
 
 

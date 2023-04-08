@@ -1,3 +1,3 @@
-<img src="../img/hp" height="60" align=right>
+<img src="../img/hp" width="350" align=right>
 
 

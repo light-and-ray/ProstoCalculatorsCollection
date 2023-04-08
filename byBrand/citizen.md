@@ -1,3 +1,3 @@
-<img src="../img/citizen.svg" height="60" align=right>
+<img src="../img/citizen.svg" width="350" align=right>
 
 

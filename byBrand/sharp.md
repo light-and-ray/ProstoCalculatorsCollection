@@ -1,2 +1,2 @@
-<img src="../img/sharp.svg" height="60" align=right>
+<img src="../img/sharp.svg" width="350" align=right>
 

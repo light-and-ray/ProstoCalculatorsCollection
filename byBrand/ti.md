@@ -1,2 +1,2 @@
-<img src="../img/ti.svg" height="60" align=right>
+<img src="../img/ti.svg" width="350" align=right>
 

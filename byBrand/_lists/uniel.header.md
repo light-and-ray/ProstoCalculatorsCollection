@@ -1,2 +1,2 @@
-<img src="../img/uniel" height="60" align=right>
+<img src="../img/uniel" width="350" align=right>
 

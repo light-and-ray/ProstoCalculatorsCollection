@@ -1,2 +1,2 @@
-<img src="../img/deli" height="60" align=right>
+<img src="../img/deli" width="350" align=right>
 
