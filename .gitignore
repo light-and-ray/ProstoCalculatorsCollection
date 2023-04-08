@@ -1,2 +1,7 @@
 raw_data
 .directory
+
+fullList.md
+byType/*.md
+byBrand/*.md
+byDisplay/*.md
