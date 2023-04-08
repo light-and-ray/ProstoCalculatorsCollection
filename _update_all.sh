@@ -3,10 +3,10 @@ set -e
 updateList="$(realpath _bin/updateList.sh)"
 
 
-echo -n "" > _fullList/fullList
+echo -n "" > _fullList/fullList.list
 for calculator in calculators/*
 do
-    echo "$calculator" >> _fullList/fullList
+    echo "$calculator" >> _fullList/fullList.list
 done
 cd _fullList/
 bash "$updateList" "."
