@@ -38,6 +38,7 @@ ____________________
 
 - [Staff](byBrand/staff.md)
 - [Uniel](byBrand/uniel.md)
+- [Deli](byBrand/deli.md)
 - [Other](byBrand/other.md)
 
 
