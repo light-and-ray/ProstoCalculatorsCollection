@@ -1,2 +1,0 @@
-- [<img src="../calculators/Casio_fx-92+/render.jpg" height="110">](../calculators/Casio_fx-92+/page.md) [Casio fx-92+](../calculators/Casio_fx-92+/page.md)
-- [<img src="../calculators/Casio_fx-1.0_Plus/render.jpg" height="110">](../calculators/Casio_fx-1.0_Plus/page.md) [Casio fx-1.0 Plus](../calculators/Casio_fx-1.0_Plus/page.md)
