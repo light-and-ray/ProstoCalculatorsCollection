@@ -1,5 +1,6 @@
 ---
 ---
 
-$link-base-color:  rgb(47, 49, 52);
-@import "{{ site.theme }}";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
