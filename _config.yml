@@ -2,6 +2,7 @@ title: ""
 theme: minima
 header_pages:
   - index.md
+  - fullList.md
   - about.md
 author: light-and-ray
 
