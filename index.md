@@ -27,8 +27,6 @@ ____________________
 
 
 - [<img src="img/hp.png" height="44">](byBrand/hp.md)
-
-
 - [<img src="img/ti.svg" height="84">](byBrand/ti.md)
 
 
