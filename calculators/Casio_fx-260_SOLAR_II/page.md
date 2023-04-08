@@ -1,5 +1,7 @@
-
-## Casio fx-260 SOLAR II
+---
+layout: default
+---
+# Casio fx-260 SOLAR II
 
 <img src="render.jpg" height="500">
 

@@ -1,5 +1,7 @@
-
-## Casio fx-92+
+---
+layout: default
+---
+# Casio fx-92+
 
 <img src="render.jpg" height="500">
 

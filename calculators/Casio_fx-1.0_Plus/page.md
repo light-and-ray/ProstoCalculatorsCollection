@@ -1,5 +1,7 @@
-
-## Casio fx-1.0 Plus
+---
+layout: default
+---
+# Casio fx-1.0 Plus
 
 <img src="render.jpg" height="500">
 
