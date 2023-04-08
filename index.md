@@ -2,8 +2,11 @@
 title: Collection of calculators
 ---
 
+<br/><br/>
 
 ____________________
+
+<br/><br/>
 
 ## By Type:
 - [Basic](byType/basic.md)
@@ -17,6 +20,7 @@ ____________________
 
 
 ____________________
+<br/><br/>
 
 ## By Brand:
 - [<img src="img/casio.svg" height="30">](byBrand/casio.md)
@@ -38,6 +42,7 @@ ____________________
 
 
 ____________________
+<br/><br/>
 
 ## By Display:
 - [<img src="img/oneLine.jpg" height="40">](byDisplay/oneLine.md) [One Line](byDisplay/oneLine.md)
@@ -53,3 +58,6 @@ ____________________
 
 
 ____________________
+
+<br/><br/>
+
