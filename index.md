@@ -8,6 +8,7 @@ title: Collection of calculators
 - [Basic](byType/basic.md)
 - [Scientific](byType/scientific.md)
 - [Programable](byType/programble.md)
+- [Little Graphic](byType/littleGraphic.md)
 - [Graphing](byType/graphing.md)
 - [CAS](byType/cas.md)
 - [Other](byType/other.md)

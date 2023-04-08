@@ -1,5 +1,7 @@
+title: "🖩 a little internet musem of calculating devices"
 theme: minima
 header_pages:
   - index.md
+  - about.md
 author: light-and-ray
 
