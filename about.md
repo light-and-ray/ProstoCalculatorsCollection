@@ -4,7 +4,7 @@ title: "About"
 
 A little internet musem of calculating devices
 
-<div>It is not an almanac, here I post only what I have. For almanac I recommend <i><u><a href="https://casio.ledudu.com/pockets.asp?menu=1&lg=eng" target="_blank">casio.ledudu.com</a></u></i> (Casios only)</div>
+<div>It is not an almanac, here I post only what I have. For almanac I recommend <i><u><a href="https://casio.ledudu.com/pockets.asp?menu=1&lg=eng" target="_blank">casio.ledudu.com</a></u></i> (Casios only) and <i><u><a href="http://www.epocalc.net/php/liste_casio.php" target="_blank">epocalc.net/php/liste_casio.php</a></u></i></div> (8 brands, before 1999)
 
 <br/><br/>
 
